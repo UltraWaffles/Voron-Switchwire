@@ -2,7 +2,7 @@ my ender switchwire
 
 The goal of this build is to convert your ender 3 (original version) to a switchwire without changing the design too much.
 
-![overview](https://github.com/UltraWaffles/Voron-Switchwire/blob/master/Mods/UltraWaffles/Images/CAD.png)
+![overview](https://github.com/UltraWaffles/Voron-Switchwire/blob/master/Mods/UltraWaffles/Images/CAD2.png)
 
 Things to note:
 1. This build can work with the ender 3 pro (I have not tested this, as I dont have an ender 3 pro)
