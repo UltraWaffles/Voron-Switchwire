@@ -1,5 +1,14 @@
 my ender switchwire
 
-The goal of this build is to convert your ender 3 (original version) to a switchwire while changing/cutting as little material as possible. I built this design to make it look as much like the original as possible. you only cut 1 extrusion total, assuming you order the other parts that you dont have already cut and drill/tapped. Its possible to convert the ender 3 pro to this build, but there may be some changes and I dont have a ender 3 pro
+The goal of this build is to convert your ender 3 (original version) to a switchwire without changing the design too much.
 
 ![overview](https://github.com/UltraWaffles/Voron-Switchwire/blob/master/Mods/UltraWaffles/Images/CAD.png)
+
+Things to note:
+1. This build can work with the ender 3 pro (I have not tested this, as I dont have an ender 3 pro)
+2. You only have to cut 1 extrusion by yourself
+3. You have to buy a few extrusions (they dont have to be from misumi)
+4. This design is made for 2020/2040 extrusions
+5. You will be using alot of parts from the original ender 3
+6. I have a BoM for all the parts you need, and Ill update it when I finish the CAD model
+7. Hammerhead tnuts works just as well as those expensive sliding ones.
