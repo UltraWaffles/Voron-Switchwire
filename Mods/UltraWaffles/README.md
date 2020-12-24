@@ -12,3 +12,4 @@ Things to note:
 5. You will be using alot of parts from the original ender 3
 6. I have a BoM for all the parts you need, and Ill update it when I finish the CAD model
 7. Hammerhead tnuts works just as well as those expensive sliding ones.
+8. if you buy shorter M4 flathead screws, you can reduce the height of the bed, thus creating more z height.
