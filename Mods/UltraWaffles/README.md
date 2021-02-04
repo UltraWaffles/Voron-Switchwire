@@ -15,3 +15,4 @@ Things to note:
 8. if you buy shorter M4 flathead screws, you can reduce the height of the bed, thus creating more z height.
 9. This version allows you to enclose it without any problems (execpt for maybe the screen. if the demand is high enough, Ill redo the design of the joint, so it can move)
 10. For now, the screen and door panel conflicts with each other, Ill fix it when I find a solution
+11. Not sure if im allowed to do this, but all of the files (execpt for electronic mounts) are in the stls.rar file
